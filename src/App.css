@@ -13,8 +13,7 @@ main {
 .result {
   border: 1px solid black;
   border-radius: 50px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 5px;
   margin-bottom: 2px;
 }
 
